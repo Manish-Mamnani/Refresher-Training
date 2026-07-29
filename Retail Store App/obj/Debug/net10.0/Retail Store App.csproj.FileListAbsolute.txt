@@ -1,0 +1,14 @@
+D:\Dotnet Online Training\Retail Store App\bin\Debug\net10.0\Retail Store App.exe
+D:\Dotnet Online Training\Retail Store App\bin\Debug\net10.0\Retail Store App.deps.json
+D:\Dotnet Online Training\Retail Store App\bin\Debug\net10.0\Retail Store App.runtimeconfig.json
+D:\Dotnet Online Training\Retail Store App\bin\Debug\net10.0\Retail Store App.dll
+D:\Dotnet Online Training\Retail Store App\bin\Debug\net10.0\Retail Store App.pdb
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.AssemblyInfoInputs.cache
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.AssemblyInfo.cs
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.csproj.CoreCompileInputs.cache
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.dll
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\refint\Retail Store App.dll
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.pdb
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\Retail Store App.genruntimeconfig.cache
+D:\Dotnet Online Training\Retail Store App\obj\Debug\net10.0\ref\Retail Store App.dll
