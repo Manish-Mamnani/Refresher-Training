@@ -1,0 +1,14 @@
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.AssemblyInfoInputs.cache
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.AssemblyInfo.cs
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.csproj.CoreCompileInputs.cache
+D:\20 day project\ParkingFeeCalculator\bin\Debug\net8.0\ParkingFeeCalculator.exe
+D:\20 day project\ParkingFeeCalculator\bin\Debug\net8.0\ParkingFeeCalculator.deps.json
+D:\20 day project\ParkingFeeCalculator\bin\Debug\net8.0\ParkingFeeCalculator.runtimeconfig.json
+D:\20 day project\ParkingFeeCalculator\bin\Debug\net8.0\ParkingFeeCalculator.dll
+D:\20 day project\ParkingFeeCalculator\bin\Debug\net8.0\ParkingFeeCalculator.pdb
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.dll
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\refint\ParkingFeeCalculator.dll
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.pdb
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ParkingFeeCalculator.genruntimeconfig.cache
+D:\20 day project\ParkingFeeCalculator\obj\Debug\net8.0\ref\ParkingFeeCalculator.dll
